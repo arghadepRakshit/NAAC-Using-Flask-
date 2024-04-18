@@ -1,0 +1,9 @@
+Pillow
+easyocr
+pywin32
+PyPDF3
+requests
+pandas
+pdfminer.six
+python-docx
+PyMuPDF
